@@ -19,10 +19,20 @@
       src="https://github-readme-stats.vercel.app/api?username=raulloy&show_icons=true"
     />
   </picture>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulloy&layout=compact"
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raulloy&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
     />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raulloy&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulloy&layout=compact"
+    />
+  </picture>
 </div>
 <br>
 <div style="display: flex">
