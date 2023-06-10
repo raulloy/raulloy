@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a new project to automatically create Facebook and Google campaign reports.
 - 🌱 I’m currently learning React and MongoDB.
-- ⚡ Fun fact:  I'm Raul, a lifelong learner with a passion for tackling new challenges. I'm equally at home exploring the latest data science techniques, tinkering with new technology, jamming on my piano, or hitting the field for a game of soccer. With so many interests, it's no wonder I haven't settled on a career path yet! But I'm excited to see where my curiosity takes me next.
+- ⚡ Fun fact:  I'm Raul, a lifelong learner with a passion for tackling new challenges. I'm equally at home exploring the latest development technologies and data science techniques, tinkering with new technology, jamming on my piano, or hitting the field for a game of soccer. With so many interests, it's no wonder I haven't settled on a career path yet! But I'm excited to see where my curiosity takes me next.
 
 <div><br>
   <picture>
